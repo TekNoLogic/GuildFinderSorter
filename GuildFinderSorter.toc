@@ -1,0 +1,12 @@
+## Interface: 40200
+
+## Title: GuildFinderSorter
+## Notes: Sorts the guild finder list
+## Author: Tekkub
+## Version: Alpha
+## X-Website: http://tekkub.net/
+## X-Category: Interface Enhancements
+
+## LoadWith: Blizzard_LookingForGuildUI
+
+GuildFinderSorter.lua
